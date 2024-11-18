@@ -37,6 +37,8 @@ Momentan werden hier Veranstaltungen von der Oetker-Gruppe, KPMG, P&amp;G, usw, 
 <a href="https://www.rwth-aachen.de/cms/root/studium/Nach-dem-Studium/Karriere/~vpq/Wettbewerbe-Recruitingevents/">Link</a></p>
 <h2 id="sprachenzentrum">Sprachenzentrum</h2>
 <h3 id="kurse-schreibzentrum">Kurse Schreibzentrum</h3>
+<p>Das Schreibzentrum bietet Einführungskurse, sowie fortgeschrittener Angebote zum wissenschaftlichen Schreiben. Weitere Angebote gibt es zur Wissenschaftskommunikation, dem Schreiben im Netz usw. Diese können von jede:r Studierende:r belegt werden und bieten gute Weiterbildungsmöglichkeiten. Es existiert eine <a href="https://www.sz.rwth-aachen.de/go/id/bbcszt">Übersicht</a> der verschiedenen Angebote.</p>
 <h3 id="schreibberatung">Schreibberatung</h3>
-<h3 id="moderne-fremdsprachen">Moderne Fremdsprachen</h3>
+<p>Bei Individuellen Problem kann eine Schreibberatung vorgenommen werden. Dabei kann auf individuellen Schwächen und Probleme der Studis eingegangen werden<br>
+<a href="https://www.sz.rwth-aachen.de/cms/SZ/Schreibzentrum/~yiwex/Schreibberatung/">Link</a></p>
 
