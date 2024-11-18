@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="zusammenfassung-angebote">Zusammenfassung Angebote</h1>
 <h2 id="generelles-angebot">Generelles Angebot</h2>
