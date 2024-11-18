@@ -1,3 +1,7 @@
+---
+
+
+---
 
 <h1 id="zusammenfassung-angebote">Zusammenfassung Angebote</h1>
 <h2 id="generelles-angebot">Generelles Angebot</h2>
@@ -23,5 +27,6 @@
 <p>Eine grobe Zusammenfassung all der Beratungsangebote nach Problem. <a href="https://www.rwth-aachen.de/cms/root/Die-RWTH/Einrichtungen/Einrichtungen-A-Z/Studentisches-Gesundheitsmanagement/~gymnk/Seelische-Gesundheit/">Hier zu finden</a></p>
 <h2 id="zielgruppenportal--studienanfängerinnen">Zielgruppenportal  Studienanfänger*innen</h2>
 <p>Vorweg bietet das <a href="https://www.rwth-aachen.de/go/id/cgjnl">Zielgruppenportal</a> eine Reihe an verschieden Angeboten, die sich speziell an Erstsemester richten. Dabei gibt es Links zu Sprach- und Schreibkursen, Praktika, Beratungsangeboten usw. .</p>
-<h2 id="career-centre">Career Centre</h2>
+<h2 id="career-center">Career Center</h2>
+<p>Das Career Center bietet ein Reihe an Workshops und Veranstaltungen zu den Themen Berufsplanung</p>
 
